@@ -6,7 +6,7 @@ Ini adalah program untuk menghitung total biaya pemesanan kamar hotel berdasarka
 
 - Menghitung total biaya pemesanan hotel berdasarkan jenis kamar dan lama menginap
 - Lama menginap dihitung otomatis dari selisih tanggal check-out dan check-in
-- Perhitungan tarif dilakukan melalui function tersendiri (`hitungjumlah`<img width="299" height="17" alt="image" src="https://github.com/user-attachments/assets/3d423862-ea7e-4431-8fab-4a71e6a68798" />) yang menerima jenis kamar dan lama menginap sebagai parameter, lalu mengembalikan total biaya menggunakan (`return`<img width="189" height="23" alt="image" src="https://github.com/user-attachments/assets/cc3f708c-0af7-4d40-9dc8-52c3a6969c07" />)
+- Perhitungan tarif dilakukan melalui function tersendiri `hitungjumlah`<img width="299" height="17" alt="image" src="https://github.com/user-attachments/assets/3d423862-ea7e-4431-8fab-4a71e6a68798" /> yang menerima jenis kamar dan lama menginap sebagai parameter, lalu mengembalikan total biaya menggunakan `return`<img width="189" height="23" alt="image" src="https://github.com/user-attachments/assets/cc3f708c-0af7-4d40-9dc8-52c3a6969c07" />
 
 
 ## Tarif Kamar
